@@ -1,0 +1,59 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+header {
+  display: flex;
+  align-items: baseline;
+  padding: 10px;
+  flex-wrap: wrap;
+
+}
+
+.headerlogo {
+  font-size: 24px;
+}
+
+ul {
+  padding: 0;
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
+
+/* Main */
+.intro {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro img {
+  max-height: 300px;
+  flex: 0;
+  margin-left: 30px;
+}
+
+.head {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+
+.head .text {
+  font-size: 18px;
+}
+

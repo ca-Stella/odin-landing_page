@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 html {
   scroll-behavior: smooth;
 }
@@ -34,7 +36,6 @@ ul {
 }
 
 a {
-  /* remove lines */ 
   text-decoration: none;
   color: #E5E7EB;
 }
@@ -81,7 +82,6 @@ h1 {
   color: #E5E7EB;
 }
 
-
 .facts {
   padding: 50px;
   display: flex;
@@ -89,7 +89,6 @@ h1 {
   align-items: center;
   background-color: white;
 }
-
 
 h2 {
   font-size: 36px;

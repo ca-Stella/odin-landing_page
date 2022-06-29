@@ -1,6 +1,6 @@
 # The Odin Project - Landing Page
 
-[Live Demo](https://)
+[🔗 Live Demo](https://ca-stella.github.io/odin-landing_page/)
 
 ### Outcomes
 - Used Git and GitHub for overall project management
